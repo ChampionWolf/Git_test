@@ -3,3 +3,4 @@ Git is free software.
 Git three
 4
 Git changes file.
+branch 2
